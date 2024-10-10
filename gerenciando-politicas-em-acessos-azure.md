@@ -1,4 +1,4 @@
-No lab Gerenciando Politicas em Acessos Azure" os seguintes assuntos foram abordados:
+No lab "Gerenciando Politicas em Acessos Azure" os seguintes assuntos foram abordados:
 
 1. Portal de Confiança do Serviço (Trust Center): O Trust Center da Microsoft Azure é um site que oferece informações detalhadas sobre as práticas de segurança, privacidade e conformidade da Microsoft. Ele fornece documentação sobre as certificações e auditorias de conformidade da Azure, assim como explicações sobre como a Microsoft protege os dados e cumpre regulamentações de proteção de dados ao redor do mundo.
 
