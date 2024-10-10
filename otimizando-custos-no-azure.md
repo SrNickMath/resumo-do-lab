@@ -1,0 +1,9 @@
+No lab "Otimizando Custos no Azure" os seguintes assuntos foram abordados:
+
+1. A TCO Calculator (Total Cost of Ownership) é uma ferramenta da Microsoft que permite calcular o custo total de propriedade ao migrar cargas de trabalho locais para a nuvem, como o Azure. Ela ajuda a comparar os custos de um ambiente on-premises com os custos projetados na nuvem, levando em consideração gastos com hardware, software, energia, manutenção e operações, oferecendo uma visão clara do possível retorno sobre investimento (ROI) e economia.
+   
+2. A Azure Pricing Calculator é uma ferramenta usada para estimar os custos dos serviços do Azure com base nas necessidades específicas de uso. Ela permite simular o custo de várias soluções do Azure, como máquinas virtuais, armazenamento, bases de dados, e serviços de IA, personalizando parâmetros como uso, região, tipo de instância e tempo de execução, para oferecer uma estimativa precisa do custo total do serviço.
+   
+3. O Cost Management no Azure é uma funcionalidade que ajuda a monitorar, controlar e otimizar os custos da sua infraestrutura em nuvem. Ele oferece insights detalhados sobre o uso e os gastos dos recursos, permitindo visualizar relatórios, criar alertas de orçamento, e identificar áreas onde se pode reduzir custos. O objetivo é garantir que as empresas mantenham o controle sobre os gastos e utilizem seus recursos de forma eficiente.
+   
+4. As Tags no Azure são rótulos aplicados aos recursos para ajudar na organização e categorização. Elas consistem em pares de chave-valor e são usadas para identificar e agrupar recursos relacionados, facilitando o rastreamento de custos, o gerenciamento e a automação. Por exemplo, você pode usar tags para marcar recursos por departamento, ambiente (produção, teste) ou projeto, permitindo relatórios de custos mais detalhados e segmentados.
